@@ -1,0 +1,1 @@
+PROMPT='%{$fg[magenta]%}%n%{$reset_color%}:%{$fg[cyan]%}%1~ %{$reset_color%}😉 %b '
